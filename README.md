@@ -10,6 +10,18 @@
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design)
 - [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures)
 
+## Learning resources used
+
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Sololearn](https://www.sololearn.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- Youtube
+  - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+  - [Kevin Powell](https://www.youtube.com/@KevinPowell)
+  - [Sebastian Lague](https://www.youtube.com/@SebastianLague)
+  - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+  - [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
+
 ---
 
 ## Project showcase
