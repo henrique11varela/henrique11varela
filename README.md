@@ -22,6 +22,10 @@
   - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
   - [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
 
+## My Notebook
+
+[Notebook](https://github.com/henrique11varela/PersonalNotebook)
+
 ---
 
 ## Project showcase
