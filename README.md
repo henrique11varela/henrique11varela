@@ -39,7 +39,10 @@
 ![](/Portfolio.png)](https://henrique11varela.github.io/)
 
 [PNG_to_Bitmap  
-![](/screenshot.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
+![](/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
+
+[Dummy_Txt_File_Maker  
+![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
 
 ---
 
