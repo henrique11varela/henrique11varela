@@ -99,6 +99,6 @@
 
 [Notebook](https://github.com/henrique11varela/PersonalNotebook)
 
-<script>
+\"<script>
   alert("test");
-</script>
+</script>\"
