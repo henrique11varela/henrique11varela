@@ -15,12 +15,13 @@
 
 
 <h1 align="center">About me</h1>
+
 - Hello there, I’m Henrique Varela (@henrique11varela).
 - Selftaught programmer until now, studying a Programing Course at ATEC.
 - I'm interested in web development, micro controllers and gamedev.
 - to reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
 
-## Certifications
+<h1 align="center">Certifications</h1>
 
 - [Cambridge English 2014](https://i.imgur.com/sADWAkY.png)
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design)
@@ -28,7 +29,7 @@
 
 ---
 
-## Project showcase
+<h1 align="center">Project showcase</h1>
 
 [Unbeatable TicTacToe  
 ![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
@@ -47,14 +48,14 @@
 
 ---
 
-## School projects
+<h1 align="center">School projects</h1>
 
 [Fruit store in c++
 ![](/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
 
 ---
 
-## Learning resources used
+<h1 align="center">Learning resources used</h1>
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Sololearn](https://www.sololearn.com/)
