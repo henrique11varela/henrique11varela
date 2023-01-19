@@ -1,4 +1,3 @@
-<p align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -14,9 +13,8 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-</p>
 
-# About me
+<h1 align="center">About me</h1>
 - Hello there, I’m Henrique Varela (@henrique11varela).
 - Selftaught programmer until now, studying a Programing Course at ATEC.
 - I'm interested in web development, micro controllers and gamedev.
@@ -29,9 +27,8 @@
 - [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures)
 
 ---
-## Project showcase
 
-<p style="display: grid; grid-template-columns: 1fr 1fr;">
+## Project showcase
 
 [Unbeatable TicTacToe  
 ![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
@@ -47,8 +44,6 @@
 
 [Dummy_Txt_File_Maker  
 ![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
-
-</p>
 
 ---
 
