@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   .icons{
     text-align: center;
   }
@@ -18,9 +18,9 @@
       grid-template-columns: 1fr;
     }
   }
-</style>
+</style> -->
 
-<div class="icons">
+<div style="text-align: center;">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -55,7 +55,7 @@
 
 ## Project showcase
 
-<div class="projects" markdown="1">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
 
   [Unbeatable TicTacToe  
   ![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
