@@ -1,26 +1,4 @@
-<!-- <style>
-  .icons{
-    text-align: center;
-  }
-
-  .projects {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
-  .projects a {
-    margin: 20px;
-    display: flex;
-    flex-direction: column;
-  }
-
-  @media screen and (max-width: 600px) {
-    .projects {
-      grid-template-columns: 1fr;
-    }
-  }
-</style> -->
-
-<div class="oogabooga">
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -36,7 +14,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-</div>
+</p>
 
 # About me
 - Hello there, I’m Henrique Varela (@henrique11varela).
@@ -50,29 +28,27 @@
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design)
 - [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures)
 
-
 ---
-
 ## Project showcase
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<p style="display: grid; grid-template-columns: 1fr 1fr;">
 
-  [Unbeatable TicTacToe  
-  ![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
+[Unbeatable TicTacToe  
+![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
 
-  [Bouncing Balls OOP
-  ![](/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
+[Bouncing Balls OOP
+![](/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
 
-  [Portfolio
-  ![](/Portfolio.png)](https://henrique11varela.github.io/)
+[Portfolio
+![](/Portfolio.png)](https://henrique11varela.github.io/)
 
-  [PNG_to_Bitmap  
-  ![](/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
+[PNG_to_Bitmap  
+![](/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
 
-  [Dummy_Txt_File_Maker  
-  ![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
+[Dummy_Txt_File_Maker  
+![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
 
-</div>
+</p>
 
 ---
 
@@ -98,7 +74,3 @@
 ## My Notebook
 
 [Notebook](https://github.com/henrique11varela/PersonalNotebook)
-
-\"<script>
-  alert("test");
-</script>\"
