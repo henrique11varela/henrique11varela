@@ -1,3 +1,27 @@
+<style>
+  .icons{
+    text-align: center;
+  }
+
+  .projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .projects a {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  @media screen and (max-width: 600px) {
+    .projects {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="icons">
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -12,6 +36,8 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
+</div>
+
 # About me
 - Hello there, I’m Henrique Varela (@henrique11varela).
 - Selftaught programmer until now, studying a Programing Course at ATEC.
@@ -23,6 +49,39 @@
 - [Cambridge English 2014](https://i.imgur.com/sADWAkY.png)
 - [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design)
 - [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures)
+
+
+---
+
+## Project showcase
+
+<div class="projects" markdown="1">
+
+  [Unbeatable TicTacToe  
+  ![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
+
+  [Bouncing Balls OOP
+  ![](/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
+
+  [Portfolio
+  ![](/Portfolio.png)](https://henrique11varela.github.io/)
+
+  [PNG_to_Bitmap  
+  ![](/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
+
+  [Dummy_Txt_File_Maker  
+  ![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
+
+</div>
+
+---
+
+## School projects
+
+[Fruit store in c++
+![](/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
+
+---
 
 ## Learning resources used
 
@@ -39,29 +98,3 @@
 ## My Notebook
 
 [Notebook](https://github.com/henrique11varela/PersonalNotebook)
-
----
-
-## Project showcase
-[Unbeatable TicTacToe  
-![](/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
-
-[Bouncing Balls OOP
-![](/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
-
-[Portfolio
-![](/Portfolio.png)](https://henrique11varela.github.io/)
-
-[PNG_to_Bitmap  
-![](/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
-
-[Dummy_Txt_File_Maker  
-![](/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
-
----
-
-## School projects
-
-[Fruit store in c++
-![](/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
-
