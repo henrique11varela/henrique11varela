@@ -75,6 +75,12 @@
   </a>
   <br>
   <br>
+  <a href="https://github.com/henrique11varela/Marialface">
+    Recipe website <br>
+    <img width="80%" src="imgs/Marialface.png">
+  </a>
+  <br>
+  <br>
 </p>
 
 
