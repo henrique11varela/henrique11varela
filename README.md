@@ -106,8 +106,11 @@
   - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
   - [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
 
-## My Notebook
+## Other
 
 [
   ![](https://img.shields.io/badge/-Notebook-FF5722?style=for-the-badge&logo=mdBook&logoColor=ffffff)
 ](https://github.com/henrique11varela/PersonalNotebook)
+[
+  ![](https://img.shields.io/badge/-Links-05164D?style=for-the-badge&logo=CodeFactor&logoColor=ffffff)
+](https://henrique11varela.github.io/LINKS/)
