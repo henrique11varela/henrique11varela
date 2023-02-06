@@ -22,6 +22,13 @@
 - I'm interested in web development, micro controllers and gamedev.
 - to reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
 
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=henrique11varela&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="height: 10rem;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henrique11varela&layout=compact&langs_count=8&theme=highcontrast"  style="height: 10rem;">
+  </a>
+</p>
+
 <h1 align="center">Certifications</h1>
 
 - [Cambridge English 2014](https://i.imgur.com/sADWAkY.png)
