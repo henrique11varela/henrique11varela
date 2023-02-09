@@ -52,9 +52,9 @@
   </a>
   <br>
   <br>
-  <a href="https://henrique11varela.github.io/">
-    Portfolio <br>
-    <img width="80%" src="imgs/Portfolio.png">
+  <a href="https://github.com/henrique11varela/Labyrinth_Solver">
+    Labyrinth_Solver <br>
+    <img width="80%" src="imgs/Labyrinth_Solver.png">
   </a>
   <br>
   <br>
@@ -67,6 +67,12 @@
   <a href="https://github.com/henrique11varela/Dummy_Txt_File_Maker">
     Dummy_Txt_File_Maker  <br>
     <img width="80%" src="imgs/Dummy_Txt_File_Maker.png">
+  </a>
+  <br>
+  <br>
+  <a href="https://henrique11varela.github.io/">
+    Portfolio <br>
+    <img width="80%" src="imgs/Portfolio.png">
   </a>
   <br>
   <br>
