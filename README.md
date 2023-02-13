@@ -52,9 +52,9 @@
   </a>
   <br>
   <br>
-  <a href="https://github.com/henrique11varela/Labyrinth_Solver">
-    Labyrinth_Solver <br>
-    <img width="80%" src="imgs/Labyrinth_Solver.png">
+  <a href="https://henrique11varela.github.io/Labyrinth_Solver_Online/">
+    Labyrinth_Solver_Online <br>
+    <img width="80%" src="imgs/Labyrinth_Solver_Online.png">
   </a>
   <br>
   <br>
@@ -73,6 +73,12 @@
   <a href="https://henrique11varela.github.io/">
     Portfolio <br>
     <img width="80%" src="imgs/Portfolio.png">
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/henrique11varela/Labyrinth_Solver">
+    Labyrinth_Solver <br>
+    <img width="80%" src="imgs/Labyrinth_Solver.png">
   </a>
   <br>
   <br>
