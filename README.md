@@ -13,7 +13,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 <br><br>
-![Counter](https://komarev.com/ghpvc/?username=henrique11varela&style=for-the-badge&color=green&label=Views)
+![Counter](https://komarev.com/ghpvc/?username=henrique11varela&style=for-the-badge&color=blueviolet&label=Views)
 
 <h1 align="center">About me</h1>
 
@@ -61,6 +61,12 @@
   <a href="https://github.com/henrique11varela/PNG_to_Bitmap">
     PNG_to_Bitmap  <br>
     <img width="80%" src="imgs/PNG_to_Bitmap.png">
+  </a>
+  <br>
+  <br>
+  <a href="https://henrique11varela.github.io/Conways_Game_of_Life/">
+    Conways_Game_of_Life  <br>
+    <img width="80%" src="imgs/game_of_life.png">
   </a>
   <br>
   <br>
