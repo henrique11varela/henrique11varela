@@ -39,98 +39,54 @@
 
 <h1 align="center">Project showcase</h1>
 
-[Conways_Game_of_Life
-![](imgs/game_of_life.gif)](https://henrique11varela.github.io/Conways_Game_of_Life/)
+- [Unbeatable TicTacToe](#unbeatable-tictactoe)
+- [Labyrinth_Solver_Online](#labyrinth_solver_online)
+- [img_particle_ball](#img_particle_ball)
+- [Conways_Game_of_Life](#conways_game_of_life)
+- [PNG_to_Bitmap](#png_to_bitmap)
+- [Bouncing Balls OOP](#bouncing-balls-oop)
+- [Dummy_Txt_File_Maker](#dummy_txt_file_maker)
+- [Portfolio](#portfolio)
+- [Labyrinth_Solver](#labyrinth_solver)
+- [Fruit store in c++](#fruit-store-in-c)
+- [Recipe website](#recipe-website)
 
-[Unbeatable TicTacToe   
-![](imgs/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
+### Unbeatable TicTacToe  
+[![](imgs/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
 
-[Labyrinth_Solver_Online   
-![](imgs/Labyrinth_Solver_Online.png)](https://henrique11varela.github.io/Labyrinth_Solver_Online/)
+### Labyrinth_Solver_Online
+[![](imgs/Labyrinth_Solver_Online.png)](https://henrique11varela.github.io/Labyrinth_Solver_Online/)
 
-[img_particle_ball   
-![](imgs/img_particle_ball.png)](https://henrique11varela.github.io/img_particle_ball/)
+### img_particle_ball
+[![](imgs/img_particle_ball.png)](https://henrique11varela.github.io/img_particle_ball/)
 
-[Title
-![](imglink)](projlink)
+### Conways_Game_of_Life
+[![](imgs/game_of_life.gif)](https://henrique11varela.github.io/Conways_Game_of_Life/)
 
-[Title
-![](imglink)](projlink)
+### PNG_to_Bitmap
+[![](imgs/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
 
-[Title
-![](imglink)](projlink)
+### Bouncing Balls OOP
+[![](imgs/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
 
-[Title
-![](imglink)](projlink)
+### Dummy_Txt_File_Maker
+[![](imgs/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
 
+### Portfolio
+[![](imgs/Portfolio.png)](https://henrique11varela.github.io/)
 
-  <a href="https://henrique11varela.github.io/img_particle_ball/">
-    img_particle_ball <br>
-    <img width="80%" src="imgs/img_particle_ball.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/henrique11varela/PNG_to_Bitmap">
-    PNG_to_Bitmap  <br>
-    <img width="80%" src="imgs/PNG_to_Bitmap.png">
-  </a>
-  <br>
-  <br>
-  
-  <a href="https://henrique11varela.github.io/Conways_Game_of_Life/">
-    Conways_Game_of_Life  <br>
-    ![](game_of_life.gif)
-  </a>
-  <br>
-  <br>
-  
-  
-  
-  <a href="https://editor.p5js.org/henrique11varela/full/HoJUcA-iM">
-    Bouncing Balls OOP <br>
-    <img width="80%" src="imgs/Ball-physics-OOP.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/henrique11varela/Dummy_Txt_File_Maker">
-    Dummy_Txt_File_Maker  <br>
-    <img width="80%" src="imgs/Dummy_Txt_File_Maker.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://henrique11varela.github.io/">
-    Portfolio <br>
-    <img width="80%" src="imgs/Portfolio.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/henrique11varela/Labyrinth_Solver">
-    Labyrinth_Solver <br>
-    <img width="80%" src="imgs/Labyrinth_Solver.png">
-  </a>
-  <br>
-  <br>
-
+### Labyrinth_Solver
+[![](imgs/Labyrinth_Solver.png)](https://github.com/henrique11varela/Labyrinth_Solver)
 
 ---
 
 <h1 align="center">School projects</h1>
 
-<p align="center">
-  <a href="https://github.com/henrique11varela/atec-t1-loja">
-    Fruit store in c++ <br>
-    <img width="80%" src="imgs/atec-t1-loja.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/henrique11varela/Marialface">
-    Recipe website <br>
-    <img width="80%" src="imgs/Marialface.png">
-  </a>
-  <br>
-  <br>
-</p>
+### Fruit store in c++
+[![](imgs/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
 
+### Recipe website
+[![](imgs/Marialface.png)](https://github.com/henrique11varela/Marialface)
 
 ---
 
