@@ -39,19 +39,31 @@
 
 <h1 align="center">Project showcase</h1>
 
-<p align="center">
-  <a href="https://henrique11varela.github.io/UnbeatableTicTacToeJS/">
-    Unbeatable TicTacToe <br>
-    <img width="80%" src="imgs/UnbeatableTicTacToeJS.png">
-  </a>
-  <br>
-  <br>
-  <a href="https://henrique11varela.github.io/Labyrinth_Solver_Online/">
-    Labyrinth_Solver_Online <br>
-    <img width="80%" src="imgs/Labyrinth_Solver_Online.png">
-  </a>
-  <br>
-  <br>
+[Conways_Game_of_Life
+![](imgs/game_of_life.gif)](https://henrique11varela.github.io/Conways_Game_of_Life/)
+
+[Unbeatable TicTacToe   
+![](imgs/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
+
+[Labyrinth_Solver_Online   
+![](imgs/Labyrinth_Solver_Online.png)](https://henrique11varela.github.io/Labyrinth_Solver_Online/)
+
+[img_particle_ball   
+![](imgs/img_particle_ball.png)](https://henrique11varela.github.io/img_particle_ball/)
+
+[Title
+![](imglink)](projlink)
+
+[Title
+![](imglink)](projlink)
+
+[Title
+![](imglink)](projlink)
+
+[Title
+![](imglink)](projlink)
+
+
   <a href="https://henrique11varela.github.io/img_particle_ball/">
     img_particle_ball <br>
     <img width="80%" src="imgs/img_particle_ball.png">
@@ -64,12 +76,16 @@
   </a>
   <br>
   <br>
+  
   <a href="https://henrique11varela.github.io/Conways_Game_of_Life/">
     Conways_Game_of_Life  <br>
-    <img width="80%" src="imgs/game_of_life.gif">
+    ![](game_of_life.gif)
   </a>
   <br>
   <br>
+  
+  
+  
   <a href="https://editor.p5js.org/henrique11varela/full/HoJUcA-iM">
     Bouncing Balls OOP <br>
     <img width="80%" src="imgs/Ball-physics-OOP.png">
@@ -94,7 +110,7 @@
   </a>
   <br>
   <br>
-</p>
+
 
 ---
 
