@@ -39,6 +39,7 @@
 
 <h1 align="center">Project showcase</h1>
 
+## Personal projects
 - [Unbeatable TicTacToe](#unbeatable-tictactoe)
 - [Labyrinth_Solver_Online](#labyrinth_solver_online)
 - [img_particle_ball](#img_particle_ball)
@@ -48,6 +49,7 @@
 - [Dummy_Txt_File_Maker](#dummy_txt_file_maker)
 - [Portfolio](#portfolio)
 - [Labyrinth_Solver](#labyrinth_solver)
+## School projects
 - [Fruit store in c++](#fruit-store-in-c)
 - [Recipe website](#recipe-website)
 
