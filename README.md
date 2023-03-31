@@ -40,15 +40,21 @@
 <h1 align="center">Project showcase</h1>
 
 ## Personal projects
-- [Unbeatable TicTacToe](#unbeatable-tictactoe)
-- [Labyrinth_Solver_Online](#labyrinth_solver_online)
-- [img_particle_ball](#img_particle_ball)
-- [Conways_Game_of_Life](#conways_game_of_life)
-- [PNG_to_Bitmap](#png_to_bitmap)
-- [Bouncing Balls OOP](#bouncing-balls-oop)
-- [Dummy_Txt_File_Maker](#dummy_txt_file_maker)
-- [Portfolio](#portfolio)
-- [Labyrinth_Solver](#labyrinth_solver)
+- [Personal projects](#personal-projects)
+- [School projects](#school-projects)
+  - [Unbeatable TicTacToe](#unbeatable-tictactoe)
+  - [Labyrinth\_Solver\_Online](#labyrinth_solver_online)
+  - [img\_particle\_ball](#img_particle_ball)
+  - [Conways\_Game\_of\_Life](#conways_game_of_life)
+  - [WebTriad\_to\_String](#webtriad_to_string)
+  - [PNG\_to\_Bitmap](#png_to_bitmap)
+  - [Bouncing Balls OOP](#bouncing-balls-oop)
+  - [Dummy\_Txt\_File\_Maker](#dummy_txt_file_maker)
+  - [Portfolio](#portfolio)
+  - [Labyrinth\_Solver](#labyrinth_solver)
+  - [Fruit store in c++](#fruit-store-in-c)
+  - [Recipe website](#recipe-website)
+- [Other](#other)
 ## School projects
 - [Fruit store in c++](#fruit-store-in-c)
 - [Recipe website](#recipe-website)
@@ -65,8 +71,11 @@
 ### Conways_Game_of_Life
 [![](imgs/game_of_life.gif)](https://henrique11varela.github.io/Conways_Game_of_Life/)
 
+### WebTriad_to_String
+[![](imgs/WebTriad_to_String.png)](https://henrique11varela.github.io/WebTriad_to_String/)
+
 ### PNG_to_Bitmap
-[![](imgs/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap)
+[![](imgs/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap/)
 
 ### Bouncing Balls OOP
 [![](imgs/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
