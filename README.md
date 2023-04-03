@@ -41,7 +41,6 @@
 
 ## Personal projects
 - [Personal projects](#personal-projects)
-- [School projects](#school-projects)
   - [Unbeatable TicTacToe](#unbeatable-tictactoe)
   - [Labyrinth\_Solver\_Online](#labyrinth_solver_online)
   - [img\_particle\_ball](#img_particle_ball)
@@ -52,9 +51,6 @@
   - [Dummy\_Txt\_File\_Maker](#dummy_txt_file_maker)
   - [Portfolio](#portfolio)
   - [Labyrinth\_Solver](#labyrinth_solver)
-  - [Fruit store in c++](#fruit-store-in-c)
-  - [Recipe website](#recipe-website)
-- [Other](#other)
 ## School projects
 - [Fruit store in c++](#fruit-store-in-c)
 - [Recipe website](#recipe-website)
