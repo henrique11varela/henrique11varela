@@ -55,19 +55,6 @@ To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
 <h1 align="center">Project showcase</h1>
 
 ## Personal projects
-- [Unbeatable TicTacToe](#unbeatable-tictactoe)
-- [Labyrinth\_Solver\_Online](#labyrinth_solver_online)
-- [img\_particle\_ball](#img_particle_ball)
-- [Conways\_Game\_of\_Life](#conways_game_of_life)
-- [WebTriad\_to\_String](#webtriad_to_string)
-- [PNG\_to\_Bitmap](#png_to_bitmap)
-- [Bouncing Balls OOP](#bouncing-balls-oop)
-- [Dummy\_Txt\_File\_Maker](#dummy_txt_file_maker)
-- [Portfolio](#portfolio)
-- [Labyrinth\_Solver](#labyrinth_solver)
-## School projects
-- [Fruit store in c++](#fruit-store-in-c)
-- [Recipe website](#recipe-website)
 
 ### Unbeatable TicTacToe  
 [![](imgs/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
@@ -101,13 +88,16 @@ To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
 
 ---
 
-<h1 align="center">School projects</h1>
+## School projects
 
 ### Fruit store in c++
 [![](imgs/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
 
 ### Recipe website
 [![](imgs/Marialface.png)](https://github.com/henrique11varela/Marialface)
+
+### Musicplayer_VanillaJS
+[![](imgs/Musicplayer_VanillaJS.png)](https://github.com/henrique11varela/Musicplayer_VanillaJS)
 
 ---
 
