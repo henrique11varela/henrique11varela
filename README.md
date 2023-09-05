@@ -1,6 +1,7 @@
+# Henrique Varela
 <!-- Shields -->
 <div align="center">
-  
+
   ![Counter](https://komarev.com/ghpvc/?username=henrique11varela&style=for-the-badge&color=blueviolet&label=Views)
   <br><br>
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -22,19 +23,15 @@
   ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
   <br><br>
-  
 </div>
 
-<h1 align="center">About me</h1>
+## About me
 
-<div align="center">
-  
 Hello there, I’m Henrique Varela (@henrique11varela).  
-Selftaught programmer until now, studying a Programing Course at ATEC.   
+Selftaught programmer until now, studying a Programing Course at ATEC.
 I'm interested in web development, micro controllers and gamedev.  
 To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
-</div>
-  
+
 <p align="center">
   <a>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=henrique11varela&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="height: 10rem;">
@@ -42,66 +39,20 @@ To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
   </a>
 </p>
 
-<h1 align="center">Certifications</h1>
+## Projects
+[
+  ![Projects](./imgs/ProjectsButton.png)
+](./Projects.md)
 
-<div align="center">
-  <a href="https://i.imgur.com/sADWAkY.png">Cambridge English 2014</a><br>
-  <a href="https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design">FreeCodeCamp Responsive Web Design</a><br>
-  <a href="https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures">FreeCodeCamp JavaScript Algorithms and Data Structures</a>
-</div>
+## Certifications
 
----
-
-<h1 align="center">Project showcase</h1>
-
-## Personal projects
-
-### Unbeatable TicTacToe  
-[![](imgs/UnbeatableTicTacToeJS.png)](https://henrique11varela.github.io/UnbeatableTicTacToeJS/)
-
-### Labyrinth_Solver_Online
-[![](imgs/Labyrinth_Solver_Online.png)](https://henrique11varela.github.io/Labyrinth_Solver_Online/)
-
-### img_particle_ball
-[![](imgs/img_particle_ball.png)](https://henrique11varela.github.io/img_particle_ball/)
-
-### Conways_Game_of_Life
-[![](imgs/game_of_life.gif)](https://henrique11varela.github.io/Conways_Game_of_Life/)
-
-### WebTriad_to_String
-[![](imgs/WebTriad_to_String.png)](https://henrique11varela.github.io/WebTriad_to_String/)
-
-### PNG_to_Bitmap
-[![](imgs/PNG_to_Bitmap.png)](https://github.com/henrique11varela/PNG_to_Bitmap/)
-
-### Bouncing Balls OOP
-[![](imgs/Ball-physics-OOP.png)](https://editor.p5js.org/henrique11varela/full/HoJUcA-iM)
-
-### Dummy_Txt_File_Maker
-[![](imgs/Dummy_Txt_File_Maker.png)](https://github.com/henrique11varela/Dummy_Txt_File_Maker)
-
-### Portfolio
-[![](imgs/Portfolio.png)](https://henrique11varela.github.io/)
-
-### Labyrinth_Solver
-[![](imgs/Labyrinth_Solver.png)](https://github.com/henrique11varela/Labyrinth_Solver)
+[Cambridge English 2014](https://i.imgur.com/sADWAkY.png)  
+[FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/henrique_varela/responsive-web-design)  
+[FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/henrique_varela/javascript-algorithms-and-data-structures)
 
 ---
 
-## School projects
-
-### Fruit store in c++
-[![](imgs/atec-t1-loja.png)](https://github.com/henrique11varela/atec-t1-loja)
-
-### Recipe website
-[![](imgs/Marialface.png)](https://github.com/henrique11varela/Marialface)
-
-### Musicplayer_VanillaJS
-[![](imgs/Musicplayer_VanillaJS.png)](https://github.com/henrique11varela/Musicplayer_VanillaJS)
-
----
-
-<h1 align="center">Learning resources used</h1>
+## Learning resources used
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Sololearn](https://www.sololearn.com/)
