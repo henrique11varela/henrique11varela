@@ -27,7 +27,7 @@
 
 ## About me
 
-Hello there, I’m Henrique Varela (@henrique11varela).  
+Hello there, I’m Henrique Varela [(@henrique11varela)](https://github.com/henrique11varela).  
 Selftaught programmer until now, studying a Programing Course at ATEC.
 I'm interested in web development, micro controllers and gamedev.  
 To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
